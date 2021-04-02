@@ -13,6 +13,9 @@ Performance is best when only one or a few active images are checked. Checking a
 ### Updates
 The projects contain links to specific product versions. As products are updated, the links may no longer work or point to old data. Check back here for updated project files. Alternatively, in April 2021, Jupyter Notebooks will be distributed (https://github.com/fastice/GIMPNotebooks) that can regenerate or customize the QGIS projects.
 
+### QGIS Version
+These projects have been tested successfully with QGIS V3.16 and 3.18. It is know to have failed on QGIS 3.10.
+
 ## QGISImageTest.qgs
 This is a small project with only 4 images that is good for debugging the authentication process since it should fail more quickly if the authentication is not working properly. It should load in under a minute even on a slow connection. 
 
