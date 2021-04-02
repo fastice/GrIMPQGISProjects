@@ -17,4 +17,4 @@ The projects contain links to specific product versions. As products are updated
 This is a small project with only 4 images that is good for debugging the authentication process since it should fail more quickly if the authentication is not working properly. It should load in under a minute even on a slow connection. 
 
 ## QGISImageMosaics.qgs
-This project contains all (309) of Sentinel1 GIMP image mosaics at 25-m resolution (https://nsidc.org/data/nsidc-0723) through January 2015 through mid-December 2020. Depending on network speed, it may take anywhere from under a minute to as many as 10 minutes to load. Once loaded, it provides reasonably fast image browsing (see General Notes).
+This project contains all (309) of Sentinel1 GIMP image mosaics at 25-m resolution (https://nsidc.org/data/nsidc-0723) through January 2015 through mid-December 2020. Depending on network speed, it may take anywhere from under a minute to as many as 10 minutes to load. Once loaded, it provides reasonably fast image browsing (see General Notes). It loads in under a minute on an Ubuntu machine on a university network and about 6 minutes on Mac with a 75Mbs home network connection.
