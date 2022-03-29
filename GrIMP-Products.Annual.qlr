@@ -1,0 +1,2465 @@
+<!DOCTYPE qgis-layer-definition>
+<qlr>
+  <layer-tree-group name="" checked="Qt::Checked" expanded="1">
+    <customproperties/>
+    <layer-tree-group name="Annual" checked="Qt::Checked" expanded="1">
+      <customproperties/>
+      <layer-tree-group name="2015" checked="Qt::Checked" expanded="0">
+        <customproperties/>
+        <layer-tree-group name="Vel_2014-12-01.2015-11-30" checked="Qt::Checked" expanded="1">
+          <customproperties/>
+          <layer-tree-layer name="vv" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2014.12.01/GL_vel_mosaic_Annual_01Dec14_30Nov15_vv_v03.0.tif" legend_split_behavior="0" id="vv_429e78eb_05d9_45f5_abcc_8fe2b7d9d00d" checked="Qt::Checked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+          <layer-tree-layer name="vx" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2014.12.01/GL_vel_mosaic_Annual_01Dec14_30Nov15_vx_v03.0.tif" legend_split_behavior="0" id="vx_42e64983_7d32_4a5c_9344_42b4724135cf" checked="Qt::Unchecked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+          <layer-tree-layer name="vy" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2014.12.01/GL_vel_mosaic_Annual_01Dec14_30Nov15_vy_v03.0.tif" legend_split_behavior="0" id="vy_7d19f44a_abb9_4b5c_bd73_942837f1472d" checked="Qt::Unchecked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+        </layer-tree-group>
+      </layer-tree-group>
+      <layer-tree-group name="2016" checked="Qt::Unchecked" expanded="0">
+        <customproperties/>
+        <layer-tree-group name="Vel_2015-12-01.2016-11-30" checked="Qt::Checked" expanded="1">
+          <customproperties/>
+          <layer-tree-layer name="vv" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2015.12.01/GL_vel_mosaic_Annual_01Dec15_30Nov16_vv_v03.0.tif" legend_split_behavior="0" id="vv_4c5abe5c_6389_4b12_9d0a_540cc1975a09" checked="Qt::Checked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+          <layer-tree-layer name="vx" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2015.12.01/GL_vel_mosaic_Annual_01Dec15_30Nov16_vx_v03.0.tif" legend_split_behavior="0" id="vx_a1df1f6b_b105_4a7a_b065_9cde4068eca0" checked="Qt::Unchecked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+          <layer-tree-layer name="vy" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2015.12.01/GL_vel_mosaic_Annual_01Dec15_30Nov16_vy_v03.0.tif" legend_split_behavior="0" id="vy_054da575_0528_471b_9b13_cc12b0c6882a" checked="Qt::Unchecked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+        </layer-tree-group>
+      </layer-tree-group>
+      <layer-tree-group name="2017" checked="Qt::Unchecked" expanded="0">
+        <customproperties/>
+        <layer-tree-group name="Vel_2016-12-01.2017-11-30" checked="Qt::Checked" expanded="1">
+          <customproperties/>
+          <layer-tree-layer name="vv" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2016.12.01/GL_vel_mosaic_Annual_01Dec16_30Nov17_vv_v03.0.tif" legend_split_behavior="0" id="vv_0d42ce91_0b2d_40f0_81f8_027086ca6329" checked="Qt::Checked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+          <layer-tree-layer name="vx" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2016.12.01/GL_vel_mosaic_Annual_01Dec16_30Nov17_vx_v03.0.tif" legend_split_behavior="0" id="vx_ce2d43b2_09c9_4cd0_89da_2835020184b3" checked="Qt::Unchecked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+          <layer-tree-layer name="vy" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2016.12.01/GL_vel_mosaic_Annual_01Dec16_30Nov17_vy_v03.0.tif" legend_split_behavior="0" id="vy_f7ac4175_e0c3_4352_970e_01c86ed2bd93" checked="Qt::Unchecked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+        </layer-tree-group>
+      </layer-tree-group>
+      <layer-tree-group name="2018" checked="Qt::Unchecked" expanded="0">
+        <customproperties/>
+        <layer-tree-group name="Vel_2017-12-01.2018-11-30" checked="Qt::Checked" expanded="1">
+          <customproperties/>
+          <layer-tree-layer name="vv" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2017.12.01/GL_vel_mosaic_Annual_01Dec17_30Nov18_vv_v03.0.tif" legend_split_behavior="0" id="vv_bbab8364_5ecc_49c8_99d7_ee31c27cb338" checked="Qt::Checked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+          <layer-tree-layer name="vx" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2017.12.01/GL_vel_mosaic_Annual_01Dec17_30Nov18_vx_v03.0.tif" legend_split_behavior="0" id="vx_7f663327_dd97_48ea_8bac_839d3d9fdbf7" checked="Qt::Unchecked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+          <layer-tree-layer name="vy" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2017.12.01/GL_vel_mosaic_Annual_01Dec17_30Nov18_vy_v03.0.tif" legend_split_behavior="0" id="vy_2de2fac4_074e_40a8_ba73_193a61da6b97" checked="Qt::Unchecked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+        </layer-tree-group>
+      </layer-tree-group>
+      <layer-tree-group name="2019" checked="Qt::Unchecked" expanded="0">
+        <customproperties/>
+        <layer-tree-group name="Vel_2018-12-01.2019-11-30" checked="Qt::Checked" expanded="1">
+          <customproperties/>
+          <layer-tree-layer name="vv" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2018.12.01/GL_vel_mosaic_Annual_01Dec18_30Nov19_vv_v03.0.tif" legend_split_behavior="0" id="vv_094c0e77_b9dc_458e_ae11_c1924b1ac72d" checked="Qt::Checked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+          <layer-tree-layer name="vx" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2018.12.01/GL_vel_mosaic_Annual_01Dec18_30Nov19_vx_v03.0.tif" legend_split_behavior="0" id="vx_3f9130df_a4e5_46af_b734_6d9dd38e2f9a" checked="Qt::Unchecked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+          <layer-tree-layer name="vy" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2018.12.01/GL_vel_mosaic_Annual_01Dec18_30Nov19_vy_v03.0.tif" legend_split_behavior="0" id="vy_a1b69127_d0ee_4e17_893b_d4600b9defed" checked="Qt::Unchecked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+        </layer-tree-group>
+      </layer-tree-group>
+      <layer-tree-group name="2020" checked="Qt::Unchecked" expanded="0">
+        <customproperties/>
+        <layer-tree-group name="Vel_2019-12-01.2020-11-30" checked="Qt::Checked" expanded="1">
+          <customproperties/>
+          <layer-tree-layer name="vv" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2019.12.01/GL_vel_mosaic_Annual_01Dec19_30Nov20_vv_v03.0.tif" legend_split_behavior="0" id="vv_519a0171_658b_4119_98ec_c3e2009e6f93" checked="Qt::Checked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+          <layer-tree-layer name="vx" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2019.12.01/GL_vel_mosaic_Annual_01Dec19_30Nov20_vx_v03.0.tif" legend_split_behavior="0" id="vx_c09b22bf_1b75_4967_ae27_d6fb72f22b32" checked="Qt::Unchecked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+          <layer-tree-layer name="vy" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2019.12.01/GL_vel_mosaic_Annual_01Dec19_30Nov20_vy_v03.0.tif" legend_split_behavior="0" id="vy_057cfdae_fb1e_4d3d_bc36_0313616e343f" checked="Qt::Unchecked" legend_exp="" providerKey="gdal" expanded="0" patch_size="-1,-1">
+            <customproperties/>
+          </layer-tree-layer>
+        </layer-tree-group>
+      </layer-tree-group>
+    </layer-tree-group>
+  </layer-tree-group>
+  <maplayers>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vv_429e78eb_05d9_45f5_abcc_8fe2b7d9d00d</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2014.12.01/GL_vel_mosaic_Annual_01Dec14_30Nov15_vv_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vv</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1500" classificationMin="0" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1500" clip="0" classificationMode="1" minimumValue="0" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="247,251,255,255" type="QString"/>
+                  <Option name="color2" value="8,48,107,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255" type="QString"/>
+                </Option>
+                <prop v="247,251,255,255" k="color1"/>
+                <prop v="8,48,107,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#f7fbff" alpha="255" value="0"/>
+              <item label="" color="#deebf7" alpha="255" value="187.5"/>
+              <item label="" color="#c6dbef" alpha="255" value="375"/>
+              <item label="" color="#9ecae1" alpha="255" value="562.5"/>
+              <item label="" color="#6baed6" alpha="255" value="750"/>
+              <item label="" color="#4292c6" alpha="255" value="937.5"/>
+              <item label="" color="#2171b5" alpha="255" value="1125"/>
+              <item label="" color="#08519c" alpha="255" value="1312.5"/>
+              <item label="" color="#08306b" alpha="255" value="1500"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vx_42e64983_7d32_4a5c_9344_42b4724135cf</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2014.12.01/GL_vel_mosaic_Annual_01Dec14_30Nov15_vx_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vx</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1000" classificationMin="-1000" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1000" clip="0" classificationMode="1" minimumValue="-1000" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="202,0,32,255" type="QString"/>
+                  <Option name="color2" value="5,113,176,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" type="QString"/>
+                </Option>
+                <prop v="202,0,32,255" k="color1"/>
+                <prop v="5,113,176,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#ca0020" alpha="255" value="-1000"/>
+              <item label="" color="#f4a582" alpha="255" value="-500"/>
+              <item label="" color="#f7f7f7" alpha="255" value="0"/>
+              <item label="" color="#92c5de" alpha="255" value="500"/>
+              <item label="" color="#0571b0" alpha="255" value="1000"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vy_7d19f44a_abb9_4b5c_bd73_942837f1472d</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2014.12.01/GL_vel_mosaic_Annual_01Dec14_30Nov15_vy_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vy</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1000" classificationMin="-1000" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1000" clip="0" classificationMode="1" minimumValue="-1000" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="202,0,32,255" type="QString"/>
+                  <Option name="color2" value="5,113,176,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" type="QString"/>
+                </Option>
+                <prop v="202,0,32,255" k="color1"/>
+                <prop v="5,113,176,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#ca0020" alpha="255" value="-1000"/>
+              <item label="" color="#f4a582" alpha="255" value="-500"/>
+              <item label="" color="#f7f7f7" alpha="255" value="0"/>
+              <item label="" color="#92c5de" alpha="255" value="500"/>
+              <item label="" color="#0571b0" alpha="255" value="1000"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vv_4c5abe5c_6389_4b12_9d0a_540cc1975a09</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2015.12.01/GL_vel_mosaic_Annual_01Dec15_30Nov16_vv_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vv</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1500" classificationMin="0" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1500" clip="0" classificationMode="1" minimumValue="0" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="247,251,255,255" type="QString"/>
+                  <Option name="color2" value="8,48,107,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255" type="QString"/>
+                </Option>
+                <prop v="247,251,255,255" k="color1"/>
+                <prop v="8,48,107,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#f7fbff" alpha="255" value="0"/>
+              <item label="" color="#deebf7" alpha="255" value="187.5"/>
+              <item label="" color="#c6dbef" alpha="255" value="375"/>
+              <item label="" color="#9ecae1" alpha="255" value="562.5"/>
+              <item label="" color="#6baed6" alpha="255" value="750"/>
+              <item label="" color="#4292c6" alpha="255" value="937.5"/>
+              <item label="" color="#2171b5" alpha="255" value="1125"/>
+              <item label="" color="#08519c" alpha="255" value="1312.5"/>
+              <item label="" color="#08306b" alpha="255" value="1500"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vx_a1df1f6b_b105_4a7a_b065_9cde4068eca0</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2015.12.01/GL_vel_mosaic_Annual_01Dec15_30Nov16_vx_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vx</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1000" classificationMin="-1000" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1000" clip="0" classificationMode="1" minimumValue="-1000" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="202,0,32,255" type="QString"/>
+                  <Option name="color2" value="5,113,176,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" type="QString"/>
+                </Option>
+                <prop v="202,0,32,255" k="color1"/>
+                <prop v="5,113,176,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#ca0020" alpha="255" value="-1000"/>
+              <item label="" color="#f4a582" alpha="255" value="-500"/>
+              <item label="" color="#f7f7f7" alpha="255" value="0"/>
+              <item label="" color="#92c5de" alpha="255" value="500"/>
+              <item label="" color="#0571b0" alpha="255" value="1000"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vy_054da575_0528_471b_9b13_cc12b0c6882a</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2015.12.01/GL_vel_mosaic_Annual_01Dec15_30Nov16_vy_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vy</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1000" classificationMin="-1000" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1000" clip="0" classificationMode="1" minimumValue="-1000" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="202,0,32,255" type="QString"/>
+                  <Option name="color2" value="5,113,176,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" type="QString"/>
+                </Option>
+                <prop v="202,0,32,255" k="color1"/>
+                <prop v="5,113,176,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#ca0020" alpha="255" value="-1000"/>
+              <item label="" color="#f4a582" alpha="255" value="-500"/>
+              <item label="" color="#f7f7f7" alpha="255" value="0"/>
+              <item label="" color="#92c5de" alpha="255" value="500"/>
+              <item label="" color="#0571b0" alpha="255" value="1000"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vv_0d42ce91_0b2d_40f0_81f8_027086ca6329</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2016.12.01/GL_vel_mosaic_Annual_01Dec16_30Nov17_vv_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vv</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1500" classificationMin="0" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1500" clip="0" classificationMode="1" minimumValue="0" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="247,251,255,255" type="QString"/>
+                  <Option name="color2" value="8,48,107,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255" type="QString"/>
+                </Option>
+                <prop v="247,251,255,255" k="color1"/>
+                <prop v="8,48,107,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#f7fbff" alpha="255" value="0"/>
+              <item label="" color="#deebf7" alpha="255" value="187.5"/>
+              <item label="" color="#c6dbef" alpha="255" value="375"/>
+              <item label="" color="#9ecae1" alpha="255" value="562.5"/>
+              <item label="" color="#6baed6" alpha="255" value="750"/>
+              <item label="" color="#4292c6" alpha="255" value="937.5"/>
+              <item label="" color="#2171b5" alpha="255" value="1125"/>
+              <item label="" color="#08519c" alpha="255" value="1312.5"/>
+              <item label="" color="#08306b" alpha="255" value="1500"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vx_ce2d43b2_09c9_4cd0_89da_2835020184b3</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2016.12.01/GL_vel_mosaic_Annual_01Dec16_30Nov17_vx_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vx</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1000" classificationMin="-1000" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1000" clip="0" classificationMode="1" minimumValue="-1000" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="202,0,32,255" type="QString"/>
+                  <Option name="color2" value="5,113,176,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" type="QString"/>
+                </Option>
+                <prop v="202,0,32,255" k="color1"/>
+                <prop v="5,113,176,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#ca0020" alpha="255" value="-1000"/>
+              <item label="" color="#f4a582" alpha="255" value="-500"/>
+              <item label="" color="#f7f7f7" alpha="255" value="0"/>
+              <item label="" color="#92c5de" alpha="255" value="500"/>
+              <item label="" color="#0571b0" alpha="255" value="1000"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vy_f7ac4175_e0c3_4352_970e_01c86ed2bd93</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2016.12.01/GL_vel_mosaic_Annual_01Dec16_30Nov17_vy_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vy</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1000" classificationMin="-1000" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1000" clip="0" classificationMode="1" minimumValue="-1000" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="202,0,32,255" type="QString"/>
+                  <Option name="color2" value="5,113,176,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" type="QString"/>
+                </Option>
+                <prop v="202,0,32,255" k="color1"/>
+                <prop v="5,113,176,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#ca0020" alpha="255" value="-1000"/>
+              <item label="" color="#f4a582" alpha="255" value="-500"/>
+              <item label="" color="#f7f7f7" alpha="255" value="0"/>
+              <item label="" color="#92c5de" alpha="255" value="500"/>
+              <item label="" color="#0571b0" alpha="255" value="1000"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vv_bbab8364_5ecc_49c8_99d7_ee31c27cb338</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2017.12.01/GL_vel_mosaic_Annual_01Dec17_30Nov18_vv_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vv</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1500" classificationMin="0" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1500" clip="0" classificationMode="1" minimumValue="0" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="247,251,255,255" type="QString"/>
+                  <Option name="color2" value="8,48,107,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255" type="QString"/>
+                </Option>
+                <prop v="247,251,255,255" k="color1"/>
+                <prop v="8,48,107,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#f7fbff" alpha="255" value="0"/>
+              <item label="" color="#deebf7" alpha="255" value="187.5"/>
+              <item label="" color="#c6dbef" alpha="255" value="375"/>
+              <item label="" color="#9ecae1" alpha="255" value="562.5"/>
+              <item label="" color="#6baed6" alpha="255" value="750"/>
+              <item label="" color="#4292c6" alpha="255" value="937.5"/>
+              <item label="" color="#2171b5" alpha="255" value="1125"/>
+              <item label="" color="#08519c" alpha="255" value="1312.5"/>
+              <item label="" color="#08306b" alpha="255" value="1500"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vx_7f663327_dd97_48ea_8bac_839d3d9fdbf7</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2017.12.01/GL_vel_mosaic_Annual_01Dec17_30Nov18_vx_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vx</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1000" classificationMin="-1000" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1000" clip="0" classificationMode="1" minimumValue="-1000" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="202,0,32,255" type="QString"/>
+                  <Option name="color2" value="5,113,176,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" type="QString"/>
+                </Option>
+                <prop v="202,0,32,255" k="color1"/>
+                <prop v="5,113,176,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#ca0020" alpha="255" value="-1000"/>
+              <item label="" color="#f4a582" alpha="255" value="-500"/>
+              <item label="" color="#f7f7f7" alpha="255" value="0"/>
+              <item label="" color="#92c5de" alpha="255" value="500"/>
+              <item label="" color="#0571b0" alpha="255" value="1000"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vy_2de2fac4_074e_40a8_ba73_193a61da6b97</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2017.12.01/GL_vel_mosaic_Annual_01Dec17_30Nov18_vy_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vy</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1000" classificationMin="-1000" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1000" clip="0" classificationMode="1" minimumValue="-1000" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="202,0,32,255" type="QString"/>
+                  <Option name="color2" value="5,113,176,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" type="QString"/>
+                </Option>
+                <prop v="202,0,32,255" k="color1"/>
+                <prop v="5,113,176,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#ca0020" alpha="255" value="-1000"/>
+              <item label="" color="#f4a582" alpha="255" value="-500"/>
+              <item label="" color="#f7f7f7" alpha="255" value="0"/>
+              <item label="" color="#92c5de" alpha="255" value="500"/>
+              <item label="" color="#0571b0" alpha="255" value="1000"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vv_094c0e77_b9dc_458e_ae11_c1924b1ac72d</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2018.12.01/GL_vel_mosaic_Annual_01Dec18_30Nov19_vv_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vv</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1500" classificationMin="0" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1500" clip="0" classificationMode="1" minimumValue="0" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="247,251,255,255" type="QString"/>
+                  <Option name="color2" value="8,48,107,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255" type="QString"/>
+                </Option>
+                <prop v="247,251,255,255" k="color1"/>
+                <prop v="8,48,107,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#f7fbff" alpha="255" value="0"/>
+              <item label="" color="#deebf7" alpha="255" value="187.5"/>
+              <item label="" color="#c6dbef" alpha="255" value="375"/>
+              <item label="" color="#9ecae1" alpha="255" value="562.5"/>
+              <item label="" color="#6baed6" alpha="255" value="750"/>
+              <item label="" color="#4292c6" alpha="255" value="937.5"/>
+              <item label="" color="#2171b5" alpha="255" value="1125"/>
+              <item label="" color="#08519c" alpha="255" value="1312.5"/>
+              <item label="" color="#08306b" alpha="255" value="1500"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vx_3f9130df_a4e5_46af_b734_6d9dd38e2f9a</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2018.12.01/GL_vel_mosaic_Annual_01Dec18_30Nov19_vx_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vx</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1000" classificationMin="-1000" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1000" clip="0" classificationMode="1" minimumValue="-1000" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="202,0,32,255" type="QString"/>
+                  <Option name="color2" value="5,113,176,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" type="QString"/>
+                </Option>
+                <prop v="202,0,32,255" k="color1"/>
+                <prop v="5,113,176,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#ca0020" alpha="255" value="-1000"/>
+              <item label="" color="#f4a582" alpha="255" value="-500"/>
+              <item label="" color="#f7f7f7" alpha="255" value="0"/>
+              <item label="" color="#92c5de" alpha="255" value="500"/>
+              <item label="" color="#0571b0" alpha="255" value="1000"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vy_a1b69127_d0ee_4e17_893b_d4600b9defed</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2018.12.01/GL_vel_mosaic_Annual_01Dec18_30Nov19_vy_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vy</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1000" classificationMin="-1000" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1000" clip="0" classificationMode="1" minimumValue="-1000" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="202,0,32,255" type="QString"/>
+                  <Option name="color2" value="5,113,176,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" type="QString"/>
+                </Option>
+                <prop v="202,0,32,255" k="color1"/>
+                <prop v="5,113,176,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#ca0020" alpha="255" value="-1000"/>
+              <item label="" color="#f4a582" alpha="255" value="-500"/>
+              <item label="" color="#f7f7f7" alpha="255" value="0"/>
+              <item label="" color="#92c5de" alpha="255" value="500"/>
+              <item label="" color="#0571b0" alpha="255" value="1000"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vv_519a0171_658b_4119_98ec_c3e2009e6f93</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2019.12.01/GL_vel_mosaic_Annual_01Dec19_30Nov20_vv_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vv</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1500" classificationMin="0" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1500" clip="0" classificationMode="1" minimumValue="0" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="247,251,255,255" type="QString"/>
+                  <Option name="color2" value="8,48,107,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255" type="QString"/>
+                </Option>
+                <prop v="247,251,255,255" k="color1"/>
+                <prop v="8,48,107,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#f7fbff" alpha="255" value="0"/>
+              <item label="" color="#deebf7" alpha="255" value="187.5"/>
+              <item label="" color="#c6dbef" alpha="255" value="375"/>
+              <item label="" color="#9ecae1" alpha="255" value="562.5"/>
+              <item label="" color="#6baed6" alpha="255" value="750"/>
+              <item label="" color="#4292c6" alpha="255" value="937.5"/>
+              <item label="" color="#2171b5" alpha="255" value="1125"/>
+              <item label="" color="#08519c" alpha="255" value="1312.5"/>
+              <item label="" color="#08306b" alpha="255" value="1500"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vx_c09b22bf_1b75_4967_ae27_d6fb72f22b32</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2019.12.01/GL_vel_mosaic_Annual_01Dec19_30Nov20_vx_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vx</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1000" classificationMin="-1000" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1000" clip="0" classificationMode="1" minimumValue="-1000" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="202,0,32,255" type="QString"/>
+                  <Option name="color2" value="5,113,176,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" type="QString"/>
+                </Option>
+                <prop v="202,0,32,255" k="color1"/>
+                <prop v="5,113,176,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#ca0020" alpha="255" value="-1000"/>
+              <item label="" color="#f4a582" alpha="255" value="-500"/>
+              <item label="" color="#f7f7f7" alpha="255" value="0"/>
+              <item label="" color="#92c5de" alpha="255" value="500"/>
+              <item label="" color="#0571b0" alpha="255" value="1000"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" minScale="1e+08" styleCategories="AllStyleCategories" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-659100</xmin>
+        <ymin>-3379100</ymin>
+        <xmax>857900</xmax>
+        <ymax>-639100</ymax>
+      </extent>
+      <id>vy_057cfdae_fb1e_4d3d_bc36_0313616e343f</id>
+      <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.003/2019.12.01/GL_vel_mosaic_Annual_01Dec19_30Nov20_vy_v03.0.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>vy</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>1371</srsid>
+          <srid>3413</srid>
+          <authid>EPSG:3413</authid>
+          <description>WGS 84 / NSIDC Sea Ice Polar Stereographic North</description>
+          <projectionacronym>stere</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling enabled="false" zoomedInResamplingMethod="nearestNeighbour" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer classificationMax="1000" classificationMin="-1000" nodataColor="" band="1" type="singlebandpseudocolor" opacity="1" alphaBand="-1">
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <rastershader>
+            <colorrampshader maximumValue="1000" clip="0" classificationMode="1" minimumValue="-1000" labelPrecision="6" colorRampType="INTERPOLATED">
+              <colorramp name="[source]" type="gradient">
+                <Option type="Map">
+                  <Option name="color1" value="202,0,32,255" type="QString"/>
+                  <Option name="color2" value="5,113,176,255" type="QString"/>
+                  <Option name="discrete" value="0" type="QString"/>
+                  <Option name="rampType" value="gradient" type="QString"/>
+                  <Option name="stops" value="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" type="QString"/>
+                </Option>
+                <prop v="202,0,32,255" k="color1"/>
+                <prop v="5,113,176,255" k="color2"/>
+                <prop v="0" k="discrete"/>
+                <prop v="gradient" k="rampType"/>
+                <prop v="0.25;244,165,130,255:0.5;247,247,247,255:0.75;146,197,222,255" k="stops"/>
+              </colorramp>
+              <item label="" color="#ca0020" alpha="255" value="-1000"/>
+              <item label="" color="#f4a582" alpha="255" value="-500"/>
+              <item label="" color="#f7f7f7" alpha="255" value="0"/>
+              <item label="" color="#92c5de" alpha="255" value="500"/>
+              <item label="" color="#0571b0" alpha="255" value="1000"/>
+              <rampLegendSettings maximumLabel="" suffix="" useContinuousLegend="1" orientation="2" minimumLabel="" prefix="" direction="0">
+                <numericFormat id="basic">
+                  <Option type="Map">
+                    <Option name="decimal_separator" value="" type="QChar"/>
+                    <Option name="decimals" value="6" type="int"/>
+                    <Option name="rounding_type" value="0" type="int"/>
+                    <Option name="show_plus" value="false" type="bool"/>
+                    <Option name="show_thousand_separator" value="true" type="bool"/>
+                    <Option name="show_trailing_zeros" value="false" type="bool"/>
+                    <Option name="thousand_separator" value="" type="QChar"/>
+                  </Option>
+                </numericFormat>
+              </rampLegendSettings>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation saturation="0" colorizeOn="0" colorizeBlue="128" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+  </maplayers>
+</qlr>
