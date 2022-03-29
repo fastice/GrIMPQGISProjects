@@ -1,4 +1,4 @@
-# GrIMPQGISProjects [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastice/GrIMPQGISProjects/HEAD?urlpath=lab)
+# GrIMPQGISProjects [![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/fastice/GrIMPQGISProjects/HEAD?urlpath=lab)
 This repository contains automatically generated QGIS project files that access and display Greenland Ice Mapping Project (GrIMP) data archived at NSIDC.
 
 See the notebook https://github.com/fastice/GrIMPNotebooks/blob/master/NSIDCLoginNotebook.ipynb for directions on setting up the authentication for GDAL and QGIS to be able to read the remote data. _**If the authentication procedures in the this notebook are not followed, the data will not be loaded**_
