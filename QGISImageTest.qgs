@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" saveUser="ian" version="3.18.0-Zürich" saveUserFull="" saveDateTime="2021-04-01T13:30:24">
+<qgis saveUser="ian" projectname="" version="3.22.5-Białowieża" saveDateTime="2022-03-24T09:29:47" saveUserFull="Ian Joughin">
   <homePath path=""/>
   <title></title>
   <autotransaction active="0"/>
@@ -19,22 +19,36 @@
     </spatialrefsys>
   </projectCrs>
   <layer-tree-group>
-    <customproperties/>
+    <customproperties>
+      <Option/>
+    </customproperties>
     <layer-tree-group checked="Qt::Checked" name="Image Mosaics" expanded="1">
-      <customproperties/>
+      <customproperties>
+        <Option/>
+      </customproperties>
       <layer-tree-group checked="Qt::Checked" name="2020" expanded="1">
-        <customproperties/>
-        <layer-tree-layer providerKey="gdal" checked="Qt::Checked" id="Image_image_2020_11_18_2020_11_23_8bee08b3_a8ce_4216_9ab6_fc9f3f62ad8c" legend_exp="" name="Image_image_2020-11-18.2020-11-23" expanded="0" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0723.003/2020.11.18/GL_S1bks_mosaic_18Nov20_23Nov20_image_25m_v03.1.tif" patch_size="-1,-1" legend_split_behavior="0">
-          <customproperties/>
+        <customproperties>
+          <Option/>
+        </customproperties>
+        <layer-tree-layer id="Image_image_2020_11_18_2020_11_23_8bee08b3_a8ce_4216_9ab6_fc9f3f62ad8c" checked="Qt::Unchecked" legend_exp="" legend_split_behavior="0" name="Image_image_2020-11-18.2020-11-23" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0723.003/2020.11.18/GL_S1bks_mosaic_18Nov20_23Nov20_image_25m_v03.1.tif" providerKey="gdal" expanded="0" patch_size="-1,-1">
+          <customproperties>
+            <Option/>
+          </customproperties>
         </layer-tree-layer>
-        <layer-tree-layer providerKey="gdal" checked="Qt::Unchecked" id="Image_image_2020_11_24_2020_11_29_5db30979_cb0a_4ebc_ae17_f89e21dd725c" legend_exp="" name="Image_image_2020-11-24.2020-11-29" expanded="0" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0723.003/2020.11.24/GL_S1bks_mosaic_24Nov20_29Nov20_image_25m_v03.1.tif" patch_size="-1,-1" legend_split_behavior="0">
-          <customproperties/>
+        <layer-tree-layer id="Image_image_2020_11_24_2020_11_29_5db30979_cb0a_4ebc_ae17_f89e21dd725c" checked="Qt::Checked" legend_exp="" legend_split_behavior="0" name="Image_image_2020-11-24.2020-11-29" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0723.003/2020.11.24/GL_S1bks_mosaic_24Nov20_29Nov20_image_25m_v03.1.tif" providerKey="gdal" expanded="0" patch_size="-1,-1">
+          <customproperties>
+            <Option/>
+          </customproperties>
         </layer-tree-layer>
-        <layer-tree-layer providerKey="gdal" checked="Qt::Unchecked" id="Image_image_2020_11_30_2020_12_05_5e455071_793a_4509_8c50_5f526f3f500e" legend_exp="" name="Image_image_2020-11-30.2020-12-05" expanded="0" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0723.003/2020.11.30/GL_S1bks_mosaic_30Nov20_05Dec20_image_25m_v03.1.tif" patch_size="-1,-1" legend_split_behavior="0">
-          <customproperties/>
+        <layer-tree-layer id="Image_image_2020_11_30_2020_12_05_5e455071_793a_4509_8c50_5f526f3f500e" checked="Qt::Unchecked" legend_exp="" legend_split_behavior="0" name="Image_image_2020-11-30.2020-12-05" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0723.003/2020.11.30/GL_S1bks_mosaic_30Nov20_05Dec20_image_25m_v03.1.tif" providerKey="gdal" expanded="0" patch_size="-1,-1">
+          <customproperties>
+            <Option/>
+          </customproperties>
         </layer-tree-layer>
-        <layer-tree-layer providerKey="gdal" checked="Qt::Unchecked" id="Image_image_2020_12_06_2020_12_11_cd79ff96_a3ef_48a9_a36c_fa530f6d8672" legend_exp="" name="Image_image_2020-12-06.2020-12-11" expanded="0" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0723.003/2020.12.06/GL_S1bks_mosaic_06Dec20_11Dec20_image_25m_v03.1.tif" patch_size="-1,-1" legend_split_behavior="0">
-          <customproperties/>
+        <layer-tree-layer id="Image_image_2020_12_06_2020_12_11_cd79ff96_a3ef_48a9_a36c_fa530f6d8672" checked="Qt::Unchecked" legend_exp="" legend_split_behavior="0" name="Image_image_2020-12-06.2020-12-11" source="/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0723.003/2020.12.06/GL_S1bks_mosaic_06Dec20_11Dec20_image_25m_v03.1.tif" providerKey="gdal" expanded="0" patch_size="-1,-1">
+          <customproperties>
+            <Option/>
+          </customproperties>
         </layer-tree-layer>
       </layer-tree-group>
     </layer-tree-group>
@@ -45,7 +59,7 @@
       <item>Image_image_2020_12_06_2020_12_11_cd79ff96_a3ef_48a9_a36c_fa530f6d8672</item>
     </custom-order>
   </layer-tree-group>
-  <snapping-settings intersection-snapping="0" minScale="0" enabled="0" self-snapping="0" tolerance="12" type="1" mode="2" unit="1" scaleDependencyMode="0" maxScale="0">
+  <snapping-settings scaleDependencyMode="0" tolerance="12" mode="2" enabled="0" minScale="0" intersection-snapping="0" type="1" maxScale="0" self-snapping="0" unit="1">
     <individual-layer-settings/>
   </snapping-settings>
   <relations/>
@@ -53,10 +67,10 @@
   <mapcanvas annotationsVisible="1" name="theMapCanvas">
     <units>unknown</units>
     <extent>
-      <xmin>-626000</xmin>
-      <ymin>-3356000</ymin>
-      <xmax>850000</xmax>
-      <ymax>-695000</ymax>
+      <xmin>132570.75471698094042949</xmin>
+      <ymin>-2959778.77358490554615855</ymin>
+      <xmax>220295.28301886774715967</xmax>
+      <ymax>-2801624.99999999953433871</ymax>
     </extent>
     <rotation>0</rotation>
     <rendermaptile>0</rendermaptile>
@@ -64,26 +78,26 @@
   </mapcanvas>
   <projectModels/>
   <legend updateDrawingOrder="true">
-    <legendgroup checked="Qt::Checked" name="Image Mosaics" open="true">
-      <legendgroup checked="Qt::Checked" name="2020" open="true">
-        <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Image_image_2020-11-18.2020-11-23" open="false" showFeatureCount="0">
+    <legendgroup open="true" checked="Qt::Checked" name="Image Mosaics">
+      <legendgroup open="true" checked="Qt::Checked" name="2020">
+        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" showFeatureCount="0" name="Image_image_2020-11-18.2020-11-23">
           <filegroup hidden="false" open="false">
-            <legendlayerfile layerid="Image_image_2020_11_18_2020_11_23_8bee08b3_a8ce_4216_9ab6_fc9f3f62ad8c" isInOverview="0" visible="1"/>
+            <legendlayerfile visible="0" layerid="Image_image_2020_11_18_2020_11_23_8bee08b3_a8ce_4216_9ab6_fc9f3f62ad8c" isInOverview="0"/>
           </filegroup>
         </legendlayer>
-        <legendlayer checked="Qt::Unchecked" drawingOrder="-1" name="Image_image_2020-11-24.2020-11-29" open="false" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" showFeatureCount="0" name="Image_image_2020-11-24.2020-11-29">
           <filegroup hidden="false" open="false">
-            <legendlayerfile layerid="Image_image_2020_11_24_2020_11_29_5db30979_cb0a_4ebc_ae17_f89e21dd725c" isInOverview="0" visible="0"/>
+            <legendlayerfile visible="1" layerid="Image_image_2020_11_24_2020_11_29_5db30979_cb0a_4ebc_ae17_f89e21dd725c" isInOverview="0"/>
           </filegroup>
         </legendlayer>
-        <legendlayer checked="Qt::Unchecked" drawingOrder="-1" name="Image_image_2020-11-30.2020-12-05" open="false" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" showFeatureCount="0" name="Image_image_2020-11-30.2020-12-05">
           <filegroup hidden="false" open="false">
-            <legendlayerfile layerid="Image_image_2020_11_30_2020_12_05_5e455071_793a_4509_8c50_5f526f3f500e" isInOverview="0" visible="0"/>
+            <legendlayerfile visible="0" layerid="Image_image_2020_11_30_2020_12_05_5e455071_793a_4509_8c50_5f526f3f500e" isInOverview="0"/>
           </filegroup>
         </legendlayer>
-        <legendlayer checked="Qt::Unchecked" drawingOrder="-1" name="Image_image_2020-12-06.2020-12-11" open="false" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" showFeatureCount="0" name="Image_image_2020-12-06.2020-12-11">
           <filegroup hidden="false" open="false">
-            <legendlayerfile layerid="Image_image_2020_12_06_2020_12_11_cd79ff96_a3ef_48a9_a36c_fa530f6d8672" isInOverview="0" visible="0"/>
+            <legendlayerfile visible="0" layerid="Image_image_2020_12_06_2020_12_11_cd79ff96_a3ef_48a9_a36c_fa530f6d8672" isInOverview="0"/>
           </filegroup>
         </legendlayer>
       </legendgroup>
@@ -91,7 +105,7 @@
   </legend>
   <mapViewDocks/>
   <mapViewDocks3D/>
-  <main-annotation-layer autoRefreshTime="0" autoRefreshEnabled="0" refreshOnNotifyMessage="" type="annotation" refreshOnNotifyEnabled="0">
+  <main-annotation-layer autoRefreshEnabled="0" refreshOnNotifyEnabled="0" legendPlaceholderImage="" type="annotation" autoRefreshTime="0" refreshOnNotifyMessage="">
     <id>Annotations_525b97a2_0656_4482_b175_1598923ff10f</id>
     <datasource></datasource>
     <keywordList>
@@ -139,15 +153,22 @@
     <items/>
     <layerOpacity>1</layerOpacity>
     <blendMode>0</blendMode>
+    <paintEffect/>
   </main-annotation-layer>
   <projectlayers>
-    <maplayer autoRefreshTime="0" autoRefreshEnabled="0" minScale="1e+08" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" refreshOnNotifyMessage="" type="raster" maxScale="0" refreshOnNotifyEnabled="0">
+    <maplayer autoRefreshEnabled="0" refreshOnNotifyEnabled="0" legendPlaceholderImage="" styleCategories="AllStyleCategories" minScale="1e+08" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0">
       <extent>
         <xmin>-626000</xmin>
         <ymin>-3356000</ymin>
         <xmax>850000</xmax>
         <ymax>-695000</ymax>
       </extent>
+      <wgs84extent>
+        <xmin>-87.00997782341435993</xmin>
+        <ymin>58.80462848101893059</ymin>
+        <xmax>5.72895128474484405</xmax>
+        <ymax>83.58904100523932357</ymax>
+      </wgs84extent>
       <id>Image_image_2020_11_18_2020_11_23_8bee08b3_a8ce_4216_9ab6_fc9f3f62ad8c</id>
       <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0723.003/2020.11.18/GL_S1bks_mosaic_18Nov20_23Nov20_image_25m_v03.1.tif</datasource>
       <keywordList>
@@ -156,7 +177,7 @@
       <layername>Image_image_2020-11-18.2020-11-23</layername>
       <srs>
         <spatialrefsys>
-          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - north of 60°N"],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
           <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
           <srsid>1371</srsid>
           <srid>3413</srid>
@@ -194,31 +215,41 @@
       </resourceMetadata>
       <provider>gdal</provider>
       <noData>
-        <noDataList useSrcNoData="1" bandNo="1"/>
+        <noDataList bandNo="1" useSrcNoData="1"/>
       </noData>
       <map-layer-style-manager current="default">
         <map-layer-style name="default"/>
       </map-layer-style-manager>
+      <metadataUrls/>
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
         <Searchable>1</Searchable>
         <Private>0</Private>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property value="Value" key="identify/format"/>
+        <Option type="Map">
+          <Option value="Value" type="QString" name="identify/format"/>
+        </Option>
       </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
       <pipe>
         <provider>
-          <resampling maxOversampling="2" zoomedOutResamplingMethod="nearestNeighbour" enabled="false" zoomedInResamplingMethod="nearestNeighbour"/>
+          <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
         </provider>
-        <rasterrenderer grayBand="1" nodataColor="" opacity="1" gradient="BlackToWhite" type="singlebandgray" alphaBand="-1">
+        <rasterrenderer gradient="BlackToWhite" alphaBand="-1" type="singlebandgray" nodataColor="" grayBand="1" opacity="1">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -233,34 +264,40 @@
             <maxValue>255</maxValue>
             <algorithm>StretchToMinimumMaximum</algorithm>
           </contrastEnhancement>
-          <rampLegendSettings minimumLabel="" orientation="2" suffix="" prefix="" maximumLabel="" direction="0">
+          <rampLegendSettings suffix="" maximumLabel="" minimumLabel="" orientation="2" useContinuousLegend="1" prefix="" direction="0">
             <numericFormat id="basic">
               <Option type="Map">
-                <Option value="" name="decimal_separator" type="QChar"/>
-                <Option value="6" name="decimals" type="int"/>
-                <Option value="0" name="rounding_type" type="int"/>
-                <Option value="false" name="show_plus" type="bool"/>
-                <Option value="true" name="show_thousand_separator" type="bool"/>
-                <Option value="false" name="show_trailing_zeros" type="bool"/>
-                <Option value="" name="thousand_separator" type="QChar"/>
+                <Option value="" type="QChar" name="decimal_separator"/>
+                <Option value="6" type="int" name="decimals"/>
+                <Option value="0" type="int" name="rounding_type"/>
+                <Option value="false" type="bool" name="show_plus"/>
+                <Option value="true" type="bool" name="show_thousand_separator"/>
+                <Option value="false" type="bool" name="show_trailing_zeros"/>
+                <Option value="" type="QChar" name="thousand_separator"/>
               </Option>
             </numericFormat>
           </rampLegendSettings>
         </rasterrenderer>
-        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
-        <huesaturation colorizeRed="255" grayscaleMode="0" colorizeBlue="128" colorizeStrength="100" colorizeGreen="128" saturation="0" colorizeOn="0"/>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation colorizeOn="0" invertColors="0" colorizeGreen="128" colorizeStrength="100" grayscaleMode="0" colorizeBlue="128" colorizeRed="255" saturation="0"/>
         <rasterresampler maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer autoRefreshTime="0" autoRefreshEnabled="0" minScale="1e+08" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" refreshOnNotifyMessage="" type="raster" maxScale="0" refreshOnNotifyEnabled="0">
+    <maplayer autoRefreshEnabled="0" refreshOnNotifyEnabled="0" legendPlaceholderImage="" styleCategories="AllStyleCategories" minScale="1e+08" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0">
       <extent>
         <xmin>-626000</xmin>
         <ymin>-3356000</ymin>
         <xmax>850000</xmax>
         <ymax>-695000</ymax>
       </extent>
+      <wgs84extent>
+        <xmin>-87.00997782341435993</xmin>
+        <ymin>58.80462848101893059</ymin>
+        <xmax>5.72895128474484405</xmax>
+        <ymax>83.58904100523932357</ymax>
+      </wgs84extent>
       <id>Image_image_2020_11_24_2020_11_29_5db30979_cb0a_4ebc_ae17_f89e21dd725c</id>
       <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0723.003/2020.11.24/GL_S1bks_mosaic_24Nov20_29Nov20_image_25m_v03.1.tif</datasource>
       <keywordList>
@@ -269,7 +306,7 @@
       <layername>Image_image_2020-11-24.2020-11-29</layername>
       <srs>
         <spatialrefsys>
-          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - north of 60°N"],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
           <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
           <srsid>1371</srsid>
           <srid>3413</srid>
@@ -307,31 +344,41 @@
       </resourceMetadata>
       <provider>gdal</provider>
       <noData>
-        <noDataList useSrcNoData="1" bandNo="1"/>
+        <noDataList bandNo="1" useSrcNoData="1"/>
       </noData>
       <map-layer-style-manager current="default">
         <map-layer-style name="default"/>
       </map-layer-style-manager>
+      <metadataUrls/>
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
         <Searchable>1</Searchable>
         <Private>0</Private>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property value="Value" key="identify/format"/>
+        <Option type="Map">
+          <Option value="Value" type="QString" name="identify/format"/>
+        </Option>
       </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
       <pipe>
         <provider>
-          <resampling maxOversampling="2" zoomedOutResamplingMethod="nearestNeighbour" enabled="false" zoomedInResamplingMethod="nearestNeighbour"/>
+          <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
         </provider>
-        <rasterrenderer grayBand="1" nodataColor="" opacity="1" gradient="BlackToWhite" type="singlebandgray" alphaBand="-1">
+        <rasterrenderer gradient="BlackToWhite" alphaBand="-1" type="singlebandgray" nodataColor="" grayBand="1" opacity="1">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -346,34 +393,40 @@
             <maxValue>255</maxValue>
             <algorithm>StretchToMinimumMaximum</algorithm>
           </contrastEnhancement>
-          <rampLegendSettings minimumLabel="" orientation="2" suffix="" prefix="" maximumLabel="" direction="0">
+          <rampLegendSettings suffix="" maximumLabel="" minimumLabel="" orientation="2" useContinuousLegend="1" prefix="" direction="0">
             <numericFormat id="basic">
               <Option type="Map">
-                <Option value="" name="decimal_separator" type="QChar"/>
-                <Option value="6" name="decimals" type="int"/>
-                <Option value="0" name="rounding_type" type="int"/>
-                <Option value="false" name="show_plus" type="bool"/>
-                <Option value="true" name="show_thousand_separator" type="bool"/>
-                <Option value="false" name="show_trailing_zeros" type="bool"/>
-                <Option value="" name="thousand_separator" type="QChar"/>
+                <Option value="" type="QChar" name="decimal_separator"/>
+                <Option value="6" type="int" name="decimals"/>
+                <Option value="0" type="int" name="rounding_type"/>
+                <Option value="false" type="bool" name="show_plus"/>
+                <Option value="true" type="bool" name="show_thousand_separator"/>
+                <Option value="false" type="bool" name="show_trailing_zeros"/>
+                <Option value="" type="QChar" name="thousand_separator"/>
               </Option>
             </numericFormat>
           </rampLegendSettings>
         </rasterrenderer>
-        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
-        <huesaturation colorizeRed="255" grayscaleMode="0" colorizeBlue="128" colorizeStrength="100" colorizeGreen="128" saturation="0" colorizeOn="0"/>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation colorizeOn="0" invertColors="0" colorizeGreen="128" colorizeStrength="100" grayscaleMode="0" colorizeBlue="128" colorizeRed="255" saturation="0"/>
         <rasterresampler maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer autoRefreshTime="0" autoRefreshEnabled="0" minScale="1e+08" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" refreshOnNotifyMessage="" type="raster" maxScale="0" refreshOnNotifyEnabled="0">
+    <maplayer autoRefreshEnabled="0" refreshOnNotifyEnabled="0" legendPlaceholderImage="" styleCategories="AllStyleCategories" minScale="1e+08" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0">
       <extent>
         <xmin>-626000</xmin>
         <ymin>-3356000</ymin>
         <xmax>850000</xmax>
         <ymax>-695000</ymax>
       </extent>
+      <wgs84extent>
+        <xmin>-87.00997782341435993</xmin>
+        <ymin>58.80462848101893059</ymin>
+        <xmax>5.72895128474484405</xmax>
+        <ymax>83.58904100523932357</ymax>
+      </wgs84extent>
       <id>Image_image_2020_11_30_2020_12_05_5e455071_793a_4509_8c50_5f526f3f500e</id>
       <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0723.003/2020.11.30/GL_S1bks_mosaic_30Nov20_05Dec20_image_25m_v03.1.tif</datasource>
       <keywordList>
@@ -382,7 +435,7 @@
       <layername>Image_image_2020-11-30.2020-12-05</layername>
       <srs>
         <spatialrefsys>
-          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - north of 60°N"],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
           <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
           <srsid>1371</srsid>
           <srid>3413</srid>
@@ -420,31 +473,41 @@
       </resourceMetadata>
       <provider>gdal</provider>
       <noData>
-        <noDataList useSrcNoData="1" bandNo="1"/>
+        <noDataList bandNo="1" useSrcNoData="1"/>
       </noData>
       <map-layer-style-manager current="default">
         <map-layer-style name="default"/>
       </map-layer-style-manager>
+      <metadataUrls/>
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
         <Searchable>1</Searchable>
         <Private>0</Private>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property value="Value" key="identify/format"/>
+        <Option type="Map">
+          <Option value="Value" type="QString" name="identify/format"/>
+        </Option>
       </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
       <pipe>
         <provider>
-          <resampling maxOversampling="2" zoomedOutResamplingMethod="nearestNeighbour" enabled="false" zoomedInResamplingMethod="nearestNeighbour"/>
+          <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
         </provider>
-        <rasterrenderer grayBand="1" nodataColor="" opacity="1" gradient="BlackToWhite" type="singlebandgray" alphaBand="-1">
+        <rasterrenderer gradient="BlackToWhite" alphaBand="-1" type="singlebandgray" nodataColor="" grayBand="1" opacity="1">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -459,34 +522,40 @@
             <maxValue>255</maxValue>
             <algorithm>StretchToMinimumMaximum</algorithm>
           </contrastEnhancement>
-          <rampLegendSettings minimumLabel="" orientation="2" suffix="" prefix="" maximumLabel="" direction="0">
+          <rampLegendSettings suffix="" maximumLabel="" minimumLabel="" orientation="2" useContinuousLegend="1" prefix="" direction="0">
             <numericFormat id="basic">
               <Option type="Map">
-                <Option value="" name="decimal_separator" type="QChar"/>
-                <Option value="6" name="decimals" type="int"/>
-                <Option value="0" name="rounding_type" type="int"/>
-                <Option value="false" name="show_plus" type="bool"/>
-                <Option value="true" name="show_thousand_separator" type="bool"/>
-                <Option value="false" name="show_trailing_zeros" type="bool"/>
-                <Option value="" name="thousand_separator" type="QChar"/>
+                <Option value="" type="QChar" name="decimal_separator"/>
+                <Option value="6" type="int" name="decimals"/>
+                <Option value="0" type="int" name="rounding_type"/>
+                <Option value="false" type="bool" name="show_plus"/>
+                <Option value="true" type="bool" name="show_thousand_separator"/>
+                <Option value="false" type="bool" name="show_trailing_zeros"/>
+                <Option value="" type="QChar" name="thousand_separator"/>
               </Option>
             </numericFormat>
           </rampLegendSettings>
         </rasterrenderer>
-        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
-        <huesaturation colorizeRed="255" grayscaleMode="0" colorizeBlue="128" colorizeStrength="100" colorizeGreen="128" saturation="0" colorizeOn="0"/>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation colorizeOn="0" invertColors="0" colorizeGreen="128" colorizeStrength="100" grayscaleMode="0" colorizeBlue="128" colorizeRed="255" saturation="0"/>
         <rasterresampler maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer autoRefreshTime="0" autoRefreshEnabled="0" minScale="1e+08" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" refreshOnNotifyMessage="" type="raster" maxScale="0" refreshOnNotifyEnabled="0">
+    <maplayer autoRefreshEnabled="0" refreshOnNotifyEnabled="0" legendPlaceholderImage="" styleCategories="AllStyleCategories" minScale="1e+08" type="raster" maxScale="0" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0">
       <extent>
         <xmin>-626000</xmin>
         <ymin>-3356000</ymin>
         <xmax>850000</xmax>
         <ymax>-695000</ymax>
       </extent>
+      <wgs84extent>
+        <xmin>-87.00997782341435993</xmin>
+        <ymin>58.80462848101893059</ymin>
+        <xmax>5.72895128474484405</xmax>
+        <ymax>83.58904100523932357</ymax>
+      </wgs84extent>
       <id>Image_image_2020_12_06_2020_12_11_cd79ff96_a3ef_48a9_a36c_fa530f6d8672</id>
       <datasource>/vsicurl/?list_dir=no&amp;url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0723.003/2020.12.06/GL_S1bks_mosaic_06Dec20_11Dec20_image_25m_v03.1.tif</datasource>
       <keywordList>
@@ -495,7 +564,7 @@
       <layername>Image_image_2020-12-06.2020-12-11</layername>
       <srs>
         <spatialrefsys>
-          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Polar research."],AREA["Northern hemisphere - north of 60°N onshore and offshore, including Arctic."],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
+          <wkt>PROJCRS["WGS 84 / NSIDC Sea Ice Polar Stereographic North",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["US NSIDC Sea Ice polar stereographic north",METHOD["Polar Stereographic (variant B)",ID["EPSG",9829]],PARAMETER["Latitude of standard parallel",70,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8832]],PARAMETER["Longitude of origin",-45,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",south,MERIDIAN[45,ANGLEUNIT["degree",0.0174532925199433]],ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",south,MERIDIAN[135,ANGLEUNIT["degree",0.0174532925199433]],ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - north of 60°N"],BBOX[60,-180,90,180]],ID["EPSG",3413]]</wkt>
           <proj4>+proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
           <srsid>1371</srsid>
           <srid>3413</srid>
@@ -533,31 +602,41 @@
       </resourceMetadata>
       <provider>gdal</provider>
       <noData>
-        <noDataList useSrcNoData="1" bandNo="1"/>
+        <noDataList bandNo="1" useSrcNoData="1"/>
       </noData>
       <map-layer-style-manager current="default">
         <map-layer-style name="default"/>
       </map-layer-style-manager>
+      <metadataUrls/>
       <flags>
         <Identifiable>1</Identifiable>
         <Removable>1</Removable>
         <Searchable>1</Searchable>
         <Private>0</Private>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal mode="0" enabled="0" fetchMode="0">
         <fixedRange>
           <start></start>
           <end></end>
         </fixedRange>
       </temporal>
       <customproperties>
-        <property value="Value" key="identify/format"/>
+        <Option type="Map">
+          <Option value="Value" type="QString" name="identify/format"/>
+        </Option>
       </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
       <pipe>
         <provider>
-          <resampling maxOversampling="2" zoomedOutResamplingMethod="nearestNeighbour" enabled="false" zoomedInResamplingMethod="nearestNeighbour"/>
+          <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
         </provider>
-        <rasterrenderer grayBand="1" nodataColor="" opacity="1" gradient="BlackToWhite" type="singlebandgray" alphaBand="-1">
+        <rasterrenderer gradient="BlackToWhite" alphaBand="-1" type="singlebandgray" nodataColor="" grayBand="1" opacity="1">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>MinMax</limits>
@@ -572,22 +651,22 @@
             <maxValue>255</maxValue>
             <algorithm>StretchToMinimumMaximum</algorithm>
           </contrastEnhancement>
-          <rampLegendSettings minimumLabel="" orientation="2" suffix="" prefix="" maximumLabel="" direction="0">
+          <rampLegendSettings suffix="" maximumLabel="" minimumLabel="" orientation="2" useContinuousLegend="1" prefix="" direction="0">
             <numericFormat id="basic">
               <Option type="Map">
-                <Option value="" name="decimal_separator" type="QChar"/>
-                <Option value="6" name="decimals" type="int"/>
-                <Option value="0" name="rounding_type" type="int"/>
-                <Option value="false" name="show_plus" type="bool"/>
-                <Option value="true" name="show_thousand_separator" type="bool"/>
-                <Option value="false" name="show_trailing_zeros" type="bool"/>
-                <Option value="" name="thousand_separator" type="QChar"/>
+                <Option value="" type="QChar" name="decimal_separator"/>
+                <Option value="6" type="int" name="decimals"/>
+                <Option value="0" type="int" name="rounding_type"/>
+                <Option value="false" type="bool" name="show_plus"/>
+                <Option value="true" type="bool" name="show_thousand_separator"/>
+                <Option value="false" type="bool" name="show_trailing_zeros"/>
+                <Option value="" type="QChar" name="thousand_separator"/>
               </Option>
             </numericFormat>
           </rampLegendSettings>
         </rasterrenderer>
-        <brightnesscontrast brightness="0" gamma="1" contrast="0"/>
-        <huesaturation colorizeRed="255" grayscaleMode="0" colorizeBlue="128" colorizeStrength="100" colorizeGreen="128" saturation="0" colorizeOn="0"/>
+        <brightnesscontrast gamma="1" contrast="0" brightness="0"/>
+        <huesaturation colorizeOn="0" invertColors="0" colorizeGreen="128" colorizeStrength="100" grayscaleMode="0" colorizeBlue="128" colorizeRed="255" saturation="0"/>
         <rasterresampler maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
@@ -643,9 +722,9 @@
   </properties>
   <dataDefinedServerProperties>
     <Option type="Map">
-      <Option value="" name="name" type="QString"/>
+      <Option value="" type="QString" name="name"/>
       <Option name="properties"/>
-      <Option value="collection" name="type" type="QString"/>
+      <Option value="collection" type="QString" name="type"/>
     </Option>
   </dataDefinedServerProperties>
   <visibility-presets/>
@@ -666,7 +745,7 @@
   <Bookmarks/>
   <ProjectViewSettings UseProjectScales="0">
     <Scales/>
-    <DefaultViewExtent xmax="2544483.43504795106127858" xmin="-2320483.43504795106127858" ymin="-3356000" ymax="-695000">
+    <DefaultViewExtent xmin="31707.39587041601771489" ymax="-2801624.99999999953433871" ymin="-2959778.77358490554615855" xmax="321158.64186543266987428">
       <spatialrefsys>
         <wkt></wkt>
         <proj4></proj4>
@@ -680,18 +759,18 @@
       </spatialrefsys>
     </DefaultViewExtent>
   </ProjectViewSettings>
-  <ProjectTimeSettings cumulativeTemporalRange="0" timeStep="1" timeStepUnit="h" frameRate="1"/>
+  <ProjectTimeSettings timeStepUnit="h" cumulativeTemporalRange="0" timeStep="1" frameRate="1"/>
   <ProjectDisplaySettings>
     <BearingFormat id="bearing">
       <Option type="Map">
-        <Option value="" name="decimal_separator" type="QChar"/>
-        <Option value="6" name="decimals" type="int"/>
-        <Option value="0" name="direction_format" type="int"/>
-        <Option value="0" name="rounding_type" type="int"/>
-        <Option value="false" name="show_plus" type="bool"/>
-        <Option value="true" name="show_thousand_separator" type="bool"/>
-        <Option value="false" name="show_trailing_zeros" type="bool"/>
-        <Option value="" name="thousand_separator" type="QChar"/>
+        <Option value="" type="QChar" name="decimal_separator"/>
+        <Option value="6" type="int" name="decimals"/>
+        <Option value="0" type="int" name="direction_format"/>
+        <Option value="0" type="int" name="rounding_type"/>
+        <Option value="false" type="bool" name="show_plus"/>
+        <Option value="true" type="bool" name="show_thousand_separator"/>
+        <Option value="false" type="bool" name="show_trailing_zeros"/>
+        <Option value="" type="QChar" name="thousand_separator"/>
       </Option>
     </BearingFormat>
   </ProjectDisplaySettings>
